@@ -1,0 +1,3 @@
+The problem we have at hand is to predict the severity of accidents that occur in Seattle. The target for this problem is everybody who travels along the streets of Seattle. 
+The project will show them what factors may increase or decrease the potential severity of an accident. Knowing this information will allow them to take precautions to
+make sure that they are lowering the potential harm that they may come to. 

@@ -1,0 +1,5 @@
+
+The data that will be used is the shared data provided by the course. It is a compilation of information of accidents that have occurred in Seattle
+and the various factors that were there that could have contributed to the severity of the accident. 
+
+The data contains information such as the type of collision, the number of injuries, whether they were speeding, the weather, and the severity of the collision. 
